@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="phone-apple-iphone.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="691"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="7.3861605"
+     inkscape:cy="23.085721"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">ios-device-48px</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="g22">
+    <image
+       id="Bitmap"
+       x="10"
+       y="1"
+       width="28"
+       height="46"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAuCAYAAAA7v3kyAAAABGdBTUEAA1teXP8meAAAAQ9JREFUWAntmMsOwjAMBFseAsSF//9QONASdqza5dw6J2xpiduI3WRu9TisNap1rW/3d00WLgvAkqAjjeqzyB52/hz0f0TNUiPEw9h481LKKry4wEkipxFCc5Y4Qa/Cm4zRAzlB70C7pfP1tdcN8bUMDwJr77IMD+wdFv4VGCiymkKaRTJ8CmmgyGoKaRbJ8CmkgSKrKaRZJMOnkAaKrKaQZpEMn0IaKLKaQppFMnz+BynTBr7BexXeNh1xpIw27r3SFm8ybBjEtzfBBF6kSbJNrXuLUclDwvclTYQhBkRXidDb8mxDAPVbC4SMYgh6Luvsph7KieDNjX1P7abyKRTEmHAR3n5N6V1q04pg1/AF5RonorquZc8AAAAASUVORK5CYII="
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <rect
+       id="Rectangle-134"
+       x="12"
+       y="2"
+       width="24"
+       height="42"
+       rx="3"
+       style="fill:#c0c0c0;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <rect
+       id="rect10"
+       x="13"
+       y="3"
+       width="22"
+       height="40"
+       rx="2"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <polygon
+       transform="translate(10,1)"
+       id="Rectangle-135"
+       points="24,36 4,36 4,7 24,7 "
+       style="fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <circle
+       id="Oval-21"
+       cx="20.5"
+       cy="5.5"
+       r="0.5"
+       style="fill:#a4a4a4;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       d="m 22.5,5.5 h 4"
+       id="Path-102"
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#979797;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.25132114"
+       d="m 25.070925,40.299369 c 0.0061,-0.460382 0.462672,-0.673724 0.483088,-0.684342 -0.245622,-0.316579 -0.639359,-0.365868 -0.779919,-0.373134 -0.335286,-0.03419 -0.659785,0.155857 -0.830295,0.153053 -0.170093,-0.0029 -0.429155,-0.169521 -0.707935,-0.169834 -0.366347,-0.0015 -0.7084,0.167808 -0.903895,0.440988 -0.39442,0.549926 -0.131993,1.378537 0.227575,1.83571 0.175691,0.22378 0.385566,0.475323 0.669504,0.471129 0.273454,-0.0048 0.380263,-0.142734 0.710578,-0.137304 0.330315,0.0054 0.419431,0.155882 0.708684,0.156063 0.294102,3.62e-4 0.485908,-0.217125 0.6714,-0.435651 0.214511,-0.252727 0.306396,-0.49931 0.311784,-0.511971 -0.0063,-0.0028 -0.568669,-0.194838 -0.560569,-0.744724 z m -0.509458,-1.35972 c 0.154592,-0.15131 0.261603,-0.363168 0.239161,-0.576703 -0.217091,0.004 -0.482865,0.113818 -0.642332,0.264804 -0.143046,0.133907 -0.270723,0.349316 -0.243191,0.558592 0.241747,0.01989 0.491904,-0.09561 0.64649,-0.246668 z"
+       id="path4568" />
+  </g>
+</svg>
