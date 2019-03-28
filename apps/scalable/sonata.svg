@@ -13,7 +13,7 @@
    height="48"
    version="1.1"
    id="svg38"
-   sodipodi:docname="lmms.svg"
+   sodipodi:docname="sonata.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata42">
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="689"
+     inkscape:window-height="687"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="8.1215637"
+     inkscape:cx="-4.5290113"
      inkscape:cy="25.309306"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -48,18 +48,6 @@
      inkscape:current-layer="svg38" />
   <defs
      id="defs22">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1423">
-      <stop
-         style="stop-color:#e6e6e6;stop-opacity:1;"
-         offset="0"
-         id="stop1419" />
-      <stop
-         style="stop-color:#e6e6e6;stop-opacity:0;"
-         offset="1"
-         id="stop1421" />
-    </linearGradient>
     <linearGradient
        id="linearGradient4488">
       <stop
@@ -1932,15 +1920,6 @@
       </g>
     </clipPath>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1423"
-       id="linearGradient1425"
-       x1="2.5827806"
-       y1="23.58599"
-       x2="44.829541"
-       y2="23.58599"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        gradientTransform="rotate(-90,23.999998,24)"
        gradientUnits="userSpaceOnUse"
        x2="47"
@@ -1998,29 +1977,26 @@
   <g
      id="g1247"
      transform="translate(-77.246286,-0.57090583)" />
+  <path
+     sodipodi:nodetypes="sssssssss"
+     inkscape:connector-curvature="0"
+     id="path4518"
+     d="m 19.362981,2.7423187 h 8.49507 c 13.90775,0 16.8044,11.2468653 16.8044,17.2820843 v 7.123176 c 0,5.959564 -2.70417,17.282082 -17.83654,17.282082 h -6.9301 c -11.5625102,0 -17.1459403,-7.707808 -17.1459403,-17.282082 v -7.123176 c 0,-9.574274 5.4701801,-17.2820843 16.6131103,-17.2820843 z"
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
   <g
-     id="g1333">
-    <path
-       style="opacity:1;fill:url(#linearGradient1425);fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125"
-       d="m 19.362981,2.7423187 h 8.49507 c 13.90775,0 16.8044,11.2468653 16.8044,17.2820843 v 7.123176 c 0,5.959564 -2.70417,17.282082 -17.83654,17.282082 h -6.9301 c -11.5625102,0 -17.1459403,-7.707808 -17.1459403,-17.282082 v -7.123176 c 0,-9.574274 5.4701801,-17.2820843 16.6131103,-17.2820843 z"
-       id="path4518"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
+     id="g1267"
+     transform="matrix(0.93408159,0,0,0.95205521,1.2879176,0.73457572)">
     <g
-       transform="translate(0.29035653,-0.4270875)"
-       id="g1267">
+       clip-path="url(#clipPath-730514797)"
+       id="g1265">
+      <!-- color: #eeeeee -->
       <g
-         id="g1265"
-         clip-path="url(#clipPath-730514797)">
-        <!-- color: #eeeeee -->
-        <g
-           id="g1263">
-          <path
-             id="path1261"
-             d="m 36,13.977 c 0,0 -2,3.01 -5,3.01 -2.797,-0.539 -3.906,-0.082 -4,0 v 12.11 c -0.133,2.551 -2.223,5.109 -5.336,6.285 -3.949,1.492 -8.125,0.195 -9.332,-2.91 -1.211,-3.098 1,-6.855 4.953,-8.348 3.059,-1.152 5.867,-0.867 7.715,0.867 v -12.01 c 4,-2.664 7.719,0.957 11,1 m 0,-0.004"
-             inkscape:connector-curvature="0"
-             style="fill:#1086b9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-        </g>
+         id="g1263">
+        <path
+           style="fill:#1086b9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0"
+           d="m 36,13.977 c 0,0 -2,3.01 -5,3.01 -2.797,-0.539 -3.906,-0.082 -4,0 v 12.11 c -0.133,2.551 -2.223,5.109 -5.336,6.285 -3.949,1.492 -8.125,0.195 -9.332,-2.91 -1.211,-3.098 1,-6.855 4.953,-8.348 3.059,-1.152 5.867,-0.867 7.715,0.867 v -12.01 c 4,-2.664 7.719,0.957 11,1 m 0,-0.004"
+           id="path1261" />
       </g>
     </g>
   </g>

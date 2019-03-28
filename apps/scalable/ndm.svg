@@ -12,7 +12,7 @@
    height="48"
    version="1.1"
    id="svg38"
-   sodipodi:docname="netbeans.svg"
+   sodipodi:docname="ndm.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata42">
@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="689"
+     inkscape:window-height="692"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="8"
-     inkscape:cx="-1.475875"
+     inkscape:cx="-7.6585988"
      inkscape:cy="28.392833"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -2945,15 +2945,6 @@
       </g>
     </clipPath>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#e-792"
-       id="linearGradient1524"
-       x1="2.266155"
-       y1="23.808191"
-       x2="44.512897"
-       y2="23.808191"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        id="linearGradient-1"
        y2="36.339146"
        x2="25.333333"
@@ -3049,7 +3040,7 @@
      id="path4147"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:url(#linearGradient1524);fill-opacity:1.0;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125"
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125"
      d="m 19.046357,2.9645209 h 8.495066 c 13.907739,0 16.804384,11.2468651 16.804384,17.2820841 v 7.123176 c 0,5.959564 -2.704172,17.282082 -17.836524,17.282082 H 19.57918 c -11.5625118,0 -17.145935,-7.707808 -17.145935,-17.282082 v -7.123176 c 0,-9.574274 5.4701791,-17.2820841 16.613112,-17.2820841 z"
      id="rect4144"
      inkscape:connector-curvature="0"

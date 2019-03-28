@@ -12,7 +12,7 @@
    height="48"
    version="1.1"
    id="svg38"
-   sodipodi:docname="deepin-launcher.svg"
+   sodipodi:docname="gnome-software.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata42">
@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="682"
+     inkscape:window-height="687"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="16.324308"
+     inkscape:cx="20.314576"
      inkscape:cy="24.670372"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -2205,7 +2205,8 @@
      id="g31"
      transform="translate(-116.19693,-4.2671553)" />
   <g
-     id="g1265">
+     id="g1265"
+     transform="matrix(1.0144635,0,0,1.007142,-0.03782019,-0.01796059)">
     <path
        style="opacity:1;fill:url(#linearGradient4544);fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125"
        d="m 2.7519738,26.220541 v 1.668528 c 0,9.574276 5.58322,17.282199 17.1457302,17.282199 h 6.93044 c 15.13236,0 17.83641,-11.322632 17.83641,-17.282199 v -1.668528 c 0,5.959567 -2.70405,17.282198 -17.83641,17.282198 h -6.93044 c -11.5625102,0 -17.1457302,-7.707923 -17.1457302,-17.282198 z"

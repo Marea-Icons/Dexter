@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="Vimeo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="678"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="7.4041019"
+     inkscape:cy="19.829995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="_clipPath_M5ROF6hFCkKuNyy6nDskjl5H1UBTZCCm">
+      <rect
+         width="48"
+         height="48"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_6IsNdRhfp0ipEKdd28mHA8ZjRdAdZNIk">
+      <rect
+         id="rect7"
+         fill="rgb(255,255,255)"
+         transform="matrix(1,0,0,1,0,0)"
+         height="48"
+         width="48"
+         y="0"
+         x="0" />
+    </clipPath>
+    <clipPath
+       id="_clipPath_KVsZ2IgljdwYAbW03m0ja8fJIFZAOlQb">
+      <rect
+         style="fill:#ffffff"
+         id="rect10"
+         height="48"
+         width="48"
+         y="0"
+         x="0" />
+    </clipPath>
+    <linearGradient
+       id="_lgradient_0"
+       x1="1.838961"
+       y1="53.398804"
+       x2="2.3870738"
+       y2="81.743317"
+       gradientTransform="scale(1.4959534,0.66847001)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="47.837058898560706%"
+         stop-opacity="0.0005328854790897491"
+         style="stop-color:rgb(0,0,0)"
+         id="stop13" />
+      <stop
+         offset="100%"
+         stop-opacity="0.04711258377719773"
+         style="stop-color:rgb(0,0,0)"
+         id="stop15" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 19.680143,3.412741 h 8.596 c 14.073,0 17.004,11.247 17.004,17.282 v 7.122 c 0,5.96 -2.736,17.282 -18.048,17.282 h -7.012 c -11.7,0 -17.35,-7.708 -17.35,-17.282 v -7.122 c 0,-9.574 5.535,-17.282 16.81,-17.282 z"
+     id="path20"
+     inkscape:connector-curvature="0"
+     style="fill:#19c1e3;fill-opacity:1" />
+  <g
+     id="Vimeo"
+     transform="matrix(0.94747262,0,0,0.92411891,1.4812135,2.0769703)">
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       id="path27"
+       d="m 8.11,17.804 c 3.346,-3.112 6.333,-8.534 9.801,-7.408 5.747,1.542 3.264,12.935 6.53,18.262 4.473,-2.613 7.375,-8.113 6.17,-10.966 -0.27,-0.798 0.058,-2.787 -3.615,-1.049 -0.953,0.451 -0.913,-1.296 -0.745,-1.533 3.399,-3.872 5.362,-5.487 7.689,-5.388 1.956,0.339 5.397,2.618 4.766,8.082 -1.31,8.13 -12.829,20.898 -16.68,20.428 -4.407,1.007 -6.649,-13.424 -9.963,-20.204 L 9.029,19.245 C 7.779,19.449 7.952,18.621 8.11,17.804 Z" />
+  </g>
+</svg>

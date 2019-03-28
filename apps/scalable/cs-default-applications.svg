@@ -12,7 +12,7 @@
    height="48"
    version="1.1"
    id="svg38"
-   sodipodi:docname="1.svg"
+   sodipodi:docname="cs-default-applications.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata42">
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="682"
+     inkscape:window-height="713"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="6.9532166"
-     inkscape:cx="-3.6661027"
+     inkscape:cx="-1.1605095"
      inkscape:cy="27.362745"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg38" />
   <defs
@@ -2868,6 +2868,46 @@
          offset="1"
          id="stop4962" />
     </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
+       gradientUnits="userSpaceOnUse"
+       x2="47"
+       x1="1"
+       id="linearGradient3764-36">
+      <stop
+         id="stop7-75"
+         stop-opacity="1"
+         stop-color="#43cd50" />
+      <stop
+         id="stop9-35"
+         stop-opacity="1"
+         stop-color="#54d160"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath-886087878-6">
+      <g
+         id="g12-2"
+         transform="translate(0,-1004.3622)">
+        <path
+           id="path14-9"
+           fill="#1890d0"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" />
+      </g>
+    </clipPath>
+    <clipPath
+       id="clipPath-893702089-1">
+      <g
+         id="g17-2"
+         transform="translate(0,-1004.3622)">
+        <path
+           id="path19-7"
+           fill="#1890d0"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" />
+      </g>
+    </clipPath>
   </defs>
   <style
      id="style4485"
@@ -2887,15 +2927,15 @@
      inkscape:connector-curvature="0"
      id="path4534"
      d="m 19.70141,2.7423187 h 8.49507 c 13.90774,0 16.80439,11.2468653 16.80439,17.2820843 v 7.123176 c 0,5.959564 -2.70417,17.282082 -17.83653,17.282082 h -6.9301 c -11.5625097,0 -17.1459397,-7.707808 -17.1459397,-17.282082 v -7.123176 c 0,-9.574274 5.47018,-17.2820843 16.6131097,-17.2820843 z"
-     style="opacity:1;fill:#6b51a1;fill-opacity:1;stroke:#000000;stroke-width:0.33399999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
+     style="opacity:1;fill:#bfae91;fill-opacity:1;stroke:#000000;stroke-width:0.33399999;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
   <g
      id="g33"
      transform="translate(-51.249208,0.20143068)" />
   <path
      inkscape:connector-curvature="0"
      id="path4525"
-     d="m 24.044585,9.2576572 -4.329317,10.3486378 -12.0180118,0.597014 9.3411358,6.99342 -3.096456,10.717593 10.102649,-6.026258 10.10265,6.026258 -3.096457,-10.717593 9.341136,-6.99342 -12.018011,-0.597014 z"
-     style="color:#000000;text-indent:0;text-transform:none;fill:#ffffff;stroke-width:1.14674556" />
+     d="M 24.044585,9.1138395 19.962839,19.566349 8.6320752,20.169356 17.43904,27.232972 14.519654,38.05814 24.044585,31.971394 33.569517,38.05814 30.65013,27.232972 39.457095,20.169356 28.126332,19.566349 Z"
+     style="color:#000000;text-indent:0;text-transform:none;fill:#ffffff;stroke-width:1.11904883" />
   <style
      type="text/css"
      id="style4485-2">
@@ -2915,4 +2955,7 @@
      style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="g880"
      transform="matrix(0.17161733,0,0,0.17656109,-100.38553,1.6860781)" />
+  <g
+     id="g33-0"
+     transform="translate(-59.303036,-6.558031)" />
 </svg>

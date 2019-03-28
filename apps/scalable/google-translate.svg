@@ -12,7 +12,7 @@
    height="48"
    version="1.1"
    id="svg38"
-   sodipodi:docname="glabels-3.0.svg"
+   sodipodi:docname="google-translate.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata42">
@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="682"
+     inkscape:window-height="687"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="-3.5383434"
+     inkscape:cx="-3.6661013"
      inkscape:cy="24.706726"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -2029,7 +2029,8 @@
      id="g1242"
      transform="translate(-52.255937,-0.37384243)" />
   <g
-     id="g1374">
+     id="g1374"
+     transform="matrix(1.0958549,0,0,1.0718942,-2.3124253,-1.7354402)">
     <path
        style="fill:url(#linearGradient1368);fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0"
